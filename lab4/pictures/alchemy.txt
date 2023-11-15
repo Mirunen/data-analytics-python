@@ -1,0 +1,65 @@
+Weakness to Poison: абесинський окунь, кривава корона, яйце коруса$, отруйний дзвінок, гігантський лишайник*, 
+яйце соснового дрозда, око шаблезуба, маленькі роги
+
+Weakness to Magic: повзуча лоза*, двемерська олія, виноград джазбі*, яйце кам'яної очеретянки, сіль, чещуйчатка*,
+стержневий корінь, попка світялчка
+
+Weakness to Fire: кривава корона*, дерево вогняного спригана, морозна сіль, ікло льодяного виблядка, 
+можєвєльнік*, місячний цукор, товчений ніготь мамонта
+
+Restore Magicka: сердце підараса, повзуча лоза, двемерська олія, ектоплазма, ельфські вуха, вогняна сіль, 
+морозна сіль, гігантський лишайник, стручок трави, людське м'ясо, місячнй цукор, мора топінелла*, перлина, 
+червоний гороцвіт*
+
+Restore Health: желе пепельного, блакитна бабка, блакитний гороцвіт*, крило метелика, 
+обуглений кріс, сердце даедра, око шаблезуба, пір'я крячика, яйце кам'яної очеретянки, 
+болотний стручок*, пшениця*
+
+Resist Magic: кривава корона, куряче яйце, багряний нірн, пір'я крячика, блискучий цвіт, дзьоб ворожки,
+яйце ястерба, лаванда*, нірн, тундряна бавовна, сіль порожнечі, димка
+
+Regenerate Magicka: Dwarven Oil, Fire Salts, Garlic, Jazbay Grapes, Moon Sugar, Salmon Roe, Salt Pile, Taproot
+
+Regenerate Health: Emperor Parasol Moss, Garlic, Gleamblossom, Juniper Berries, Luna Moth Wing, Namira's Rot,
+Nordic Barnacle, Vampire Dust
+
+Lingering Damage Health: бісів гриб*, мора топінелла, оранджева бабка, Scathecraw, яйце риби убивці, 
+луска риби убивці
+
+Fortify Smithing: пухир, світлогриб, око шаблезуба, живиця спригана
+
+Fortify Magicka: сердце підараса, ектоплазма, імперський бородатий мох, хітскороп, виноград джазбі, 
+червоний гороцвіт, тундряна бавовна, сіль порожнечі
+
+Fortify Health: ікло кобана!, палець гіганта!, ведмежі кігту, блакитний гороцвіт, світлогриб, 
+бородатий мох, пшениця, жовтий гороцвіт
+
+Fortify Enchanting: Ancestor Moth Wing, Blue Butterfly Wing, Chaurus Hunter Antennae, Hagraven Claw, Snowberries,
+Spawn Ash, Spriggan Sap
+
+Fortify Destruction: пепельна повзуча лоза, гніздо, світлопил, світлогриб, димка.
+
+Damage Health: Jarrin Root (100×Magnitude,158.5×Value), River Betty (2.5×Magnitude,34.5×Value), 
+Emperor Parasol Moss (1.5×Magnitude,19.7×Value), Nirnroot (12.6×Value), Crimson Nirnroot (3×Magnitude,3.3×Value),
+Scalon Fin (1.5×Magnitude,1.56×Value), Ectoplasm, Falmer Ear, Human Flesh, Human Heart, Imp Stool, Nightshade,
+Red Mountain Flower, Skeever Tail, Small Antlers, Troll Fat, Void Salts
+
+Paralysis: Briar Heart, Canis Root, Gleamblossom, Human Flesh, Imp Stool, Netch Jelly, Swamp Fungal Pod.
+
+Fortify Light Armor: Ash Hopper Jelly, Beehive Husk, Felsaad Tern Feathers, Hawk Feathers, Honeycomb, 
+Luna Moth Wing, Skeever Tail
+
+Fortify One-handed: Bear Claws, Canis Root, Hanging Moss, Hawk Feathers, Rock Warbler Egg, Small Pearl
+
+Fortify Pickpocket: Blue Dartwing, Nordic Barnacle, Orange Dartwing, Slaughterfish Egg
+
+Fortify Two-handed: Dragon's Tongue, Emperor Parasol Moss, Fly Amanita, Troll Fat
+
+Fortify Carry Weight: Creep Cluster, Giant's Toe, Hawk Beak, Netch Jelly, Poison Bloom, River Betty, Scaly Pholiota,
+Trama Root, Wisp Wrappings
+
+Fortify Barter: Butterfly Wing, Dragon's Tongue, Hagraven Claw, Tundra Cotton
+
+Fortify Block: Bleeding Crown, Boar Tusk, Pearl, Slaughterfish Scales, Tundra Cotton
+
+Fortify Marksman: Canis Root, Elves Ear, Juniper Berries, Spider Egg
